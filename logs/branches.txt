@@ -1,0 +1,4 @@
+  bugfix/rollback-feature  5e82b04 Corregir error en la funcionalidad de rollback
+  feature/advanced-feature 97b400e Agrega la función greet como función avanzada
+  feature/cherry-pick      8fa6a6b cambios para stash
+* main                     8fa6a6b [origin/main: ahead 13] cambios para stash

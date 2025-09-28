@@ -1,0 +1,14 @@
+8fa6a6b (HEAD -> main, feature/cherry-pick) cambios para stash
+64e8cb9 cambios extras
+1953068 Agrega ejemplo de cherry-pick
+e32d9d9 corregir conflicto
+5e82b04 (bugfix/rollback-feature) Corregir error en la funcionalidad de rollback
+ad24781 Revert "actualizando main.py"
+805cfcd actualizando main.py
+ec3873c Resuelve el conflicto de fusión entre la versión main y feature/advanced-feature
+fdc0503 Actualizar el mensaje main.py en la rama main
+97b400e (feature/advanced-feature) Agrega la función greet como función avanzada
+5c23e0f Agrega main.py
+43b4da1 Configura la documentación base del repositorio
+b3313a7 Commit inicial con README.md
+f894ba7 (origin/main, origin/HEAD) Initial commit
